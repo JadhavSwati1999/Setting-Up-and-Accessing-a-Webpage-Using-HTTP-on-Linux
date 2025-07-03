@@ -10,7 +10,7 @@ The daemon answers the request automatically and serves the hypertext and multim
 
 Launch an EC2 instance and connect it to CLI
 
-- Install httpd service
+- Install httpd service.
 
 yum install httpd
 
