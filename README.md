@@ -16,7 +16,7 @@ yum install httpd
 
 
 
-- Check the status of the httpd service
+- Check the status of the httpd service.
 
 systemctl status httpd.service
 
