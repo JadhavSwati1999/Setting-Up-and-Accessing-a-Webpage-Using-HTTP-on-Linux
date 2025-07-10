@@ -31,7 +31,7 @@ systemctl start httpd.service
 
 cd /var/www ——>ls—→cd html
 
-- Create a html file
+- Create a html file.
 
 vi index.html
 
