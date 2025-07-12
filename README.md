@@ -22,7 +22,7 @@ systemctl status httpd.service
 
 
 
-- Start the service
+- Start the service.
 
 systemctl start httpd.service
 
